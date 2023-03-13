@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Adinath03/my-repo">
+<a href="https://github.com/Adinath03/Adinanth03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adinath03&repo=my-repo" />
 </a>
 
