@@ -78,7 +78,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adinath03&show_icons=true&theme=radical" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath03&theme=vision-friendly-dark&hide_border=false" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath03&theme=vision-friendly-dark&hide_border=false" width="46%" />
 </p>
 
 <br>
