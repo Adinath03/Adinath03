@@ -87,7 +87,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/Adinath03/Adinath03/blob/main/Images/handshake.gif?raw=true" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Adinath03/Adinath03/blob/main/Images/Hand.gif?raw=true" width ="80">
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adinath342)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinath-mahandule/)
