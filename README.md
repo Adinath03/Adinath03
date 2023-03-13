@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align = "center">
-![Adinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adinath03&show_icons=true&theme=radical)
+[![Adinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adinath03&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
