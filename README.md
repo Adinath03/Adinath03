@@ -8,18 +8,27 @@
 
 ## <picture><img src = "https://github.com/Adinath03/Adinath03/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
-<div style="display:flex; align-items:center;">
-    <img align="Right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
-    <ul>
-        <li>A passionate Software developer</li>
-        <li>Playing CSGO at spare time</li>
-        <li>Currently learning Web Development & AWS</li>
-        <li>Personal <a href="https://adinath03.github.io/CSS/">Website</a></li>
-        <li>I’m currently open for an Intern or a new job opportunity</li>
-    </ul>
+<div class="flexContainer">
+  <img src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px" alt="Animated graphic of a person working at a computer">
+  <ul>
+    <li> A passionate Software developer</li>
+    <li> Playing CSGO at spare time</li>
+    <li> Currently learning Web Development & AWS</li>
+    <li> Personal <a href="https://adinath03.github.io/CSS/">Website</a></li>
+    <li> I’m currently open for an Intern or a new job opportunity</li>
+  </ul>
 </div>
 
+<style>
+  .flexContainer {
+    display: flex;
+    align-items: center;
+  }
 
+  img {
+    float: right;
+  }
+</style>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
