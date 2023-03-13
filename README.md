@@ -8,17 +8,21 @@
 
 ## <picture><img src = "https://github.com/Adinath03/Adinath03/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width = 225px></picture>
+<div style="display: flex;">
+  <div style="width: 50%; display: inline-block;">
+    <p>
+      - A passionate Software developer<br>
+      - Playing CSGO at spare time<br>
+      - Currently learning Web Development & AWS<br>
+      - Personal website <a href="https://adinath03.github.io/CSS/">link</a><br>
+      - I’m currently open for an Intern or a new job opportunity
+    </p>
+  </div>
+  <div style="width: 50%; display: inline-block;">
+    <img src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
+  </div>
+</div>
 
-<br>
-
-- A passionate Software developer
-- Playing CSGO at spare time
-- Currently learning Web Development & AWS
-- Personal website [link](https://adinath03.github.io/CSS/)
-- I’m currently open for an Intern or a new job opportunity
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -84,8 +88,6 @@
 <br>
 
 ---
-
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Adinath03/Adinath03/blob/main/Images/Hand.gif?raw=true" width ="80">
 
