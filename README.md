@@ -17,7 +17,7 @@
         <li>Personal <a href="https://adinath03.github.io/CSS/">Website</a></li>
         <li>I’m currently open for an Intern or a new job opportunity</li>
     </ul>
-    <img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
+    <picture></picture><img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
