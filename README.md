@@ -13,7 +13,7 @@
         <li>A passionate Software developer</li>
         <li>Playing CSGO at spare time</li>
         <li>Currently learning Web Development & AWS</li>
-        <li>Personal website <a href="https://adinath03.github.io/CSS/">link</a></li>
+        <li>Personal <a href="https://adinath03.github.io/CSS/">Website</a></li>
         <li>I’m currently open for an Intern or a new job opportunity</li>
     </ul>
     <img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
