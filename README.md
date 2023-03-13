@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/Adinath03/Adinath03/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <div style="display:flex; align-items:center;">
-    <img align="left" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
+    <img align="Right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
     <ul>
         <li>A passionate Software developer</li>
         <li>Playing CSGO at spare time</li>
