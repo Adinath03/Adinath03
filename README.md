@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/Adinath03/Adinath03/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <br>
-<div style="display:flex; align-items:center;">
+<div style="display:flex;">
     <ul style="margin-right: 20px;">
         <li>A passionate Software developer</li>
         <li>Playing CSGO at spare time</li>
@@ -17,7 +17,7 @@
         <li>Personal <a href="https://adinath03.github.io/CSS/">Website</a></li>
         <li>I’m currently open for an Intern or a new job opportunity</li>
     </ul>
-    <picture></picture><img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+   <img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -37,11 +37,11 @@
     
 - **Front-End Development**:
 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 <br>
 
 - **Cloud Hosting**:
