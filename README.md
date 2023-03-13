@@ -78,10 +78,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
-<div style="display:flex; justify-content:space-between;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adinath03&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath03&theme=vision-friendly-dark&hide_border=false" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adinath03&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath03&theme=vision-friendly-dark&hide_border=false" width="48%" />
+</p>
 
 <br>
 
