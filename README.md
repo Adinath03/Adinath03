@@ -8,8 +8,9 @@
 
 ## <picture><img src = "https://github.com/Adinath03/Adinath03/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
+<br>
 <div style="display:flex; align-items:center;">
-    <ul>
+    <ul style="margin-right: 20px;">
         <li>A passionate Software developer</li>
         <li>Playing CSGO at spare time</li>
         <li>Currently learning Web Development & AWS</li>
@@ -18,7 +19,6 @@
     </ul>
     <img align="right" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
