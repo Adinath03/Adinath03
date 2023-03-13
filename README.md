@@ -8,20 +8,17 @@
 
 ## <picture><img src = "https://github.com/Adinath03/Adinath03/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
-<div style="display: flex;">
-  <div style="width: 50%; display: inline-block;">
-    <p>
-      - A passionate Software developer<br>
-      - Playing CSGO at spare time<br>
-      - Currently learning Web Development & AWS<br>
-      - Personal website <a href="https://adinath03.github.io/CSS/">link</a><br>
-      - I’m currently open for an Intern or a new job opportunity
-    </p>
-  </div>
-  <div style="width: 50%; display: inline-block;">
-    <img src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
-  </div>
+<div style="display:flex; align-items:center;">
+    <img align="left" src="https://github.com/Adinath03/Adinath03/blob/main/Images/Right_Side.gif?raw=true" width="225px">
+    <ul>
+        <li>A passionate Software developer</li>
+        <li>Playing CSGO at spare time</li>
+        <li>Currently learning Web Development & AWS</li>
+        <li>Personal <a href="https://adinath03.github.io/CSS/">Website</a></li>
+        <li>I’m currently open for an Intern or a new job opportunity</li>
+    </ul>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
