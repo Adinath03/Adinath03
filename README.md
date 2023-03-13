@@ -9,10 +9,8 @@
 
 <div style="display:flex; justify-content:space-between;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adinath03&show_icons=true&theme=radical" />
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath03&layout=compact" />
 </div>
-
-
 
 <!--
 **Adinath03/Adinath03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
